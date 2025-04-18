@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+uv.lock
+pyproject.toml
+.env
+
+# weights
+weights/
+weights.zip
+
+# results
+results/
+
+#docs
+docs/
